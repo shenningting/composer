@@ -1,0 +1,24 @@
+{
+  "name": "shenningting/d",
+  "description": "The Laravel Framework.",
+  "keywords": ["dump"],
+  "license": "MIT",
+  "authors" : [
+    {
+      "name" : "shenningting",
+      "email": "1244426046@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload" : {
+    "files" : [
+      "dump.php"
+    ]
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
